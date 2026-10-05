@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Ahmad Raza - Front-End Developer, Automation and AI Tooling">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05070f"/>
+      <stop offset="50%" stop-color="#121c42"/>
+      <stop offset="100%" stop-color="#03202c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#818cf8;#e879f9;#22d3ee" dur="10s" repeatCount="indefinite"/></stop>
+      <stop offset="50%" stop-color="#818cf8"><animate attributeName="stop-color" values="#818cf8;#e879f9;#22d3ee;#818cf8" dur="10s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#e879f9"><animate attributeName="stop-color" values="#e879f9;#22d3ee;#818cf8;#e879f9" dur="10s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <circle cx="170" cy="80" r="150" fill="#4338ca" opacity="0.55" filter="url(#soft)">
+    <animate attributeName="cx" values="170;430;170" dur="16s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="80;190;80" dur="16s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1030" cy="250" r="165" fill="#0891b2" opacity="0.5" filter="url(#soft)">
+    <animate attributeName="cx" values="1030;740;1030" dur="19s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="250;110;250" dur="19s" repeatCount="indefinite"/>
+  </circle>
+
+  <path d="M-450,300 C-375,270 -300,270 -225,300 C-150,330 -75,330 0,300 C75,270 150,270 225,300 C300,330 375,330 450,300 C525,270 600,270 675,300 C750,330 825,330 900,300 C975,270 1050,270 1125,300 C1200,330 1275,330 1350,300 C1425,270 1500,270 1575,300 C1650,330 1725,330 1800,300 C1875,270 1950,270 2025,300 L2025,320 L-450,320 Z" fill="#22d3ee" opacity="0.16">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-450 0;0 0" dur="26s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,285 C75,255 150,255 225,285 C300,315 375,315 450,285 C525,255 600,255 675,285 C750,315 825,315 900,285 C975,255 1050,255 1125,285 C1200,315 1275,315 1350,285 C1425,255 1500,255 1575,285 C1650,315 1725,315 1800,285 L1800,320 L0,320 Z" fill="#818cf8" opacity="0.22">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-450 0;0 0" dur="18s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="600" y="138" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="76" font-weight="700" fill="#ffffff" letter-spacing="3">Ahmad Raza</text>
+  <text x="600" y="190" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="25" font-weight="500" fill="url(#accent)" letter-spacing="1.5">Front-End Developer • Automation &amp; AI Tooling</text>
+
+  <rect y="208" x="600" width="0" height="4" rx="2" fill="url(#accent)">
+    <animate attributeName="width" values="0;470;470;0" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="600;365;365;600" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

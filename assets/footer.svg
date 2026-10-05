@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="">
+  <defs>
+    <linearGradient id="fw" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#818cf8;#22d3ee" dur="9s" repeatCount="indefinite"/></stop>
+      <stop offset="55%" stop-color="#4338ca"><animate attributeName="stop-color" values="#4338ca;#0891b2;#4338ca" dur="9s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#0b1120"><animate attributeName="stop-color" values="#0b1120;#4338ca;#0b1120" dur="9s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="#05070f"/>
+  <path d="M0,70 C75,40 150,40 225,70 C300,100 375,100 450,70 C525,40 600,40 675,70 C750,100 825,100 900,70 C975,40 1050,40 1125,70 C1200,100 1275,100 1350,70 C1425,40 1500,40 1575,70 L1575,120 L0,120 Z" fill="url(#fw)" opacity="0.85">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-450 0;0 0" dur="20s" repeatCount="indefinite"/>
+  </path>
+</svg>
