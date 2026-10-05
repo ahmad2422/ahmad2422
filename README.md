@@ -10,7 +10,7 @@
 
 <a href="https://ahmad-portfolio-plum.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b1120?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio" /></a>
 <a href="https://github.com/ahmad2422?tab=followers"><img src="https://img.shields.io/github/followers/ahmad2422?style=for-the-badge&logo=github&label=Followers&color=0b1120&logoColor=white" alt="Followers" /></a>
-<a href="https://github.com/ahmad2422?tab=repositories"><img src="https://img.shields.io/badge/Repositories-11-0b1120?style=for-the-badge&logo=gitbook&logoColor=22d3ee" alt="Repositories" /></a>
+<a href="https://github.com/ahmad2422?tab=repositories"><img src="https://img.shields.io/badge/Public_repos-32-0b1120?style=for-the-badge&logo=gitbook&logoColor=22d3ee" alt="Public repositories" /></a>
 <img src="https://komarev.com/ghpvc/?username=ahmad2422&label=Profile%20views&color=22d3ee&style=for-the-badge" alt="Profile views" />
 
 <!-- Add your own links here when ready:
@@ -120,6 +120,24 @@ const ahmad = {
 
 ---
 
+### 🍴 Open source I'm tracking & contributing to
+
+> 20 forks of actively maintained projects, grouped by where I can add the most value.
+
+**AI agents, harnesses & automation**
+[openclaw](https://github.com/ahmad2422/openclaw) · [hermes-agent](https://github.com/ahmad2422/hermes-agent) · [ECC](https://github.com/ahmad2422/ECC) · [goose](https://github.com/ahmad2422/goose) · [zeroclaw](https://github.com/ahmad2422/zeroclaw) · [herdr](https://github.com/ahmad2422/herdr) · [claude-mem](https://github.com/ahmad2422/claude-mem) · [ponytail](https://github.com/ahmad2422/ponytail) · [dify](https://github.com/ahmad2422/dify) · [mautic](https://github.com/ahmad2422/mautic)
+
+**Developer tools, MCP & web**
+[chrome-devtools-mcp](https://github.com/ahmad2422/chrome-devtools-mcp) · [context7](https://github.com/ahmad2422/context7) · [hyperframes](https://github.com/ahmad2422/hyperframes) · [impeccable](https://github.com/ahmad2422/impeccable) · [OmniRoute](https://github.com/ahmad2422/OmniRoute)
+
+**Systems & performance — C/C++ · Rust**
+[llama.cpp](https://github.com/ahmad2422/llama.cpp) · [terminal](https://github.com/ahmad2422/terminal) · [meilisearch](https://github.com/ahmad2422/meilisearch)
+
+**Community knowledge bases**
+[awesome-openclaw-skills](https://github.com/ahmad2422/awesome-openclaw-skills) · [awesome-openclaw-usecases](https://github.com/ahmad2422/awesome-openclaw-usecases)
+
+---
+
 ### 📊 GitHub in numbers
 
 <div align="center">
@@ -135,6 +153,14 @@ const ahmad = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad2422&bg_color=0d1117&color=22d3ee&line=818cf8&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad2422/ahmad2422/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad2422/ahmad2422/output/github-snake.svg" />
+    <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/ahmad2422/ahmad2422/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
 ---
 
 ### 🗂️ Selected work
@@ -142,9 +168,7 @@ const ahmad = {
 | Project | Stack | What it is |
 | :--- | :--- | :--- |
 | [**Ahmad-Portfolio**](https://github.com/ahmad2422/Ahmad-Portfolio) | `TypeScript` `Next.js` `Tailwind` | My personal portfolio — [live site](https://ahmad-portfolio-plum.vercel.app/) |
-| [**Youtube-skin-code**](https://github.com/ahmad2422/Youtube-skin-code) | `HTML` `CSS` `JS` | A YouTube skin/theme build — GPL-3.0, open for improvements |
-
-> 🔎 More on my [repositories page](https://github.com/ahmad2422?tab=repositories) — including forks of AI-agent, automation and design tooling I'm actively reading and contributing to.
+| [**Youtube-skin-code**](https://github.com/ahmad2422/Youtube-skin-code) | `HTML` `CSS` `JS` | A custom YouTube player shell — poster cover, brandable play button, keyboard accessible. GPL-3.0. |
 
 ---
 
