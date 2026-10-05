@@ -10,8 +10,7 @@
 
 <a href="https://ahmad-portfolio-plum.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b1120?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio" /></a>
 <a href="https://github.com/ahmad2422?tab=followers"><img src="https://img.shields.io/github/followers/ahmad2422?style=for-the-badge&logo=github&label=Followers&color=0b1120&logoColor=white" alt="Followers" /></a>
-<a href="https://github.com/ahmad2422?tab=repositories"><img src="https://img.shields.io/badge/Public_repos-32-0b1120?style=for-the-badge&logo=gitbook&logoColor=22d3ee" alt="Public repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=ahmad2422&label=Profile%20views&color=22d3ee&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/ahmad2422?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmad2422&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github&color=0b1120&logoColor=22d3ee" alt="Public repositories" /></a>
 
 <!-- Add your own links here when ready:
 <a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-0b1120?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
