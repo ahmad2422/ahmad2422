@@ -77,9 +77,8 @@ const ahmad = {
 <a href="https://jquery.com" title="jQuery"><img src="https://skillicons.dev/icons?i=jquery" width="46" height="46" alt="jQuery" /></a>
 <a href="https://vite.dev" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="46" height="46" alt="Vite" /></a>
 <a href="https://pnpm.io" title="pnpm"><img src="https://skillicons.dev/icons?i=pnpm" width="46" height="46" alt="pnpm" /></a>
-<a href="https://motion.dev" title="Framer Motion"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" /></a>
-<a href="https://gsap.com" title="GSAP"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" /></a>
-<a href="https://zustand.docs.pmnd.rs" title="Zustand"><img src="https://img.shields.io/badge/Zustand-2C2C2C?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" /></a>
+<a href="https://motion.dev" title="Framer Motion"><img src="assets/icons/framer.svg" width="46" height="46" alt="Framer Motion" /></a>
+<a href="https://gsap.com" title="GSAP"><img src="assets/icons/gsap.svg" width="46" height="46" alt="GSAP" /></a>
 
 **Data, DevOps & Tooling**
 
@@ -93,15 +92,15 @@ const ahmad = {
 <a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="46" height="46" alt="Vercel" /></a>
 <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="46" height="46" alt="VS Code" /></a>
 <a href="https://www.gnu.org/software/bash" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="46" height="46" alt="Bash" /></a>
-<a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
+<a href="https://github.com/features/actions" title="GitHub Actions"><img src="assets/icons/ghactions.svg" width="46" height="46" alt="GitHub Actions" /></a>
 
 **AI & Automation**
 
-<a href="https://openai.com" title="OpenAI"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
-<a href="https://claude.ai" title="Claude"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
-<a href="https://modelcontextprotocol.io" title="Model Context Protocol"><img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" /></a>
-<a href="https://ollama.com" title="Ollama"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /></a>
-<a href="https://python.org" title="Python (tooling & scripts)"><img src="https://skillicons.dev/icons?i=python" width="46" height="46" alt="Python" /></a>
+<a href="https://openai.com" title="OpenAI"><img src="assets/icons/openai.svg" width="46" height="46" alt="OpenAI" /></a>
+<a href="https://claude.ai" title="Claude"><img src="assets/icons/claude.svg" width="46" height="46" alt="Claude" /></a>
+<a href="https://modelcontextprotocol.io" title="Model Context Protocol"><img src="assets/icons/mcp.svg" width="46" height="46" alt="Model Context Protocol" /></a>
+<a href="https://ollama.com" title="Ollama"><img src="assets/icons/ollama.svg" width="46" height="46" alt="Ollama" /></a>
+<a href="https://python.org" title="Python"><img src="https://skillicons.dev/icons?i=python" width="46" height="46" alt="Python" /></a>
 
 </div>
 
@@ -145,17 +144,8 @@ const ahmad = {
 ### 📊 GitHub in numbers
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmad2422&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=22d3ee&icon_color=818cf8&text_color=c9d1d9&bg_color=0d1117" alt="Ahmad's GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=ahmad2422&hide_border=true&background=0d1117&stroke=30363d&ring=22d3ee&fire=818cf8&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
-
-<br />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad2422&layout=compact&langs_count=8&hide_border=true&title_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
-
+  <img src="assets/stats.svg" width="100%" alt="Ahmad's GitHub statistics — public repos, followers, stars, contributions and top languages" />
 </div>
-
-<img src="https://ghchart.rshah.org/22d3ee/ahmad2422" width="100%" alt="Contribution chart" />
 
 <div align="center">
   <picture>
