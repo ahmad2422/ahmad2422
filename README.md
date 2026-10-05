@@ -9,13 +9,13 @@
 <br />
 
 <a href="https://ahmad-portfolio-plum.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b1120?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ahmad-raza-41a68a229/"><img src="https://img.shields.io/badge/LinkedIn-0b1120?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" /></a>
+<a href="mailto:ahmedraza43210@gmail.com"><img src="https://img.shields.io/badge/Email-0b1120?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email" /></a>
 <a href="https://github.com/ahmad2422?tab=followers"><img src="https://img.shields.io/github/followers/ahmad2422?style=for-the-badge&logo=github&label=Followers&color=0b1120&logoColor=white" alt="Followers" /></a>
 <a href="https://github.com/ahmad2422?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmad2422&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github&color=0b1120&logoColor=22d3ee" alt="Public repositories" /></a>
 
-<!-- Add your own links here when ready:
-<a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-0b1120?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
+<!-- Add X / other links here when ready:
 <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-0b1120?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0b1120?style=for-the-badge&logo=gmail&logoColor=22d3ee" /></a>
 -->
 
 </div>
@@ -32,6 +32,7 @@ const ahmad = {
   languages: ["JavaScript", "TypeScript", "Node.js", "PHP", "C", "C++", "Rust"],
   styling:   ["CSS3", "Tailwind CSS", "Sass", "Bootstrap"],
   currently: ["shipping side projects", "contributing to open source"],
+  contact:   "ahmedraza43210@gmail.com",
   askMeAbout:["React / Next.js", "automation scripts", "AI agent workflows"],
 } as const;
 ```
@@ -121,16 +122,22 @@ const ahmad = {
 
 ### 🍴 Open source I'm tracking & contributing to
 
-> 20 forks across the AI-agent, automation and systems ecosystem — grouped by where I can add the most value.
+> 32 forks across the AI-agent, automation, web and systems ecosystem — where I can add the most value is marked with ⭐.
 
-**AI agents, harnesses & automation**
-[openclaw](https://github.com/ahmad2422/openclaw) · [hermes-agent](https://github.com/ahmad2422/hermes-agent) · [ECC](https://github.com/ahmad2422/ECC) · [goose](https://github.com/ahmad2422/goose) · [zeroclaw](https://github.com/ahmad2422/zeroclaw) · [herdr](https://github.com/ahmad2422/herdr) · [claude-mem](https://github.com/ahmad2422/claude-mem) · [ponytail](https://github.com/ahmad2422/ponytail) · [dify](https://github.com/ahmad2422/dify) · [mautic](https://github.com/ahmad2422/mautic)
+**AI agents, harnesses & orchestration**
+[openclaw](https://github.com/ahmad2422/openclaw) · [hermes-agent](https://github.com/ahmad2422/hermes-agent) · [ECC](https://github.com/ahmad2422/ECC) · [goose](https://github.com/ahmad2422/goose) · [zeroclaw](https://github.com/ahmad2422/zeroclaw) · [herdr](https://github.com/ahmad2422/herdr) · [claude-mem](https://github.com/ahmad2422/claude-mem) · [ponytail](https://github.com/ahmad2422/ponytail) · [ruflo](https://github.com/ahmad2422/ruflo) · [orca](https://github.com/ahmad2422/orca) · [AionUi](https://github.com/ahmad2422/AionUi) · [dify](https://github.com/ahmad2422/dify)
 
-**Developer tools, MCP & web**
-[chrome-devtools-mcp](https://github.com/ahmad2422/chrome-devtools-mcp) · [context7](https://github.com/ahmad2422/context7) · [hyperframes](https://github.com/ahmad2422/hyperframes) · [impeccable](https://github.com/ahmad2422/impeccable) · [OmniRoute](https://github.com/ahmad2422/OmniRoute)
+**LLM tooling, MCP & knowledge**
+[context7](https://github.com/ahmad2422/context7) · [chrome-devtools-mcp](https://github.com/ahmad2422/chrome-devtools-mcp) · [graphify](https://github.com/ahmad2422/graphify) · [gemini-cli](https://github.com/ahmad2422/gemini-cli) · [OmniRoute](https://github.com/ahmad2422/OmniRoute)
+
+**Web, design & front-end**
+⭐ [airi](https://github.com/ahmad2422/airi) · ⭐ [archify](https://github.com/ahmad2422/archify) · [impeccable](https://github.com/ahmad2422/impeccable) · [hyperframes](https://github.com/ahmad2422/hyperframes) · [Front-End-Checklist](https://github.com/ahmad2422/Front-End-Checklist) · [tailwindcss](https://github.com/ahmad2422/tailwindcss) · [vite](https://github.com/ahmad2422/vite)
 
 **Systems & performance — C/C++ · Rust**
-[llama.cpp](https://github.com/ahmad2422/llama.cpp) · [terminal](https://github.com/ahmad2422/terminal) · [meilisearch](https://github.com/ahmad2422/meilisearch)
+⭐ [mimiclaw](https://github.com/ahmad2422/mimiclaw) · ⭐ [cc-switch](https://github.com/ahmad2422/cc-switch) · [llama.cpp](https://github.com/ahmad2422/llama.cpp) · [terminal](https://github.com/ahmad2422/terminal) · [meilisearch](https://github.com/ahmad2422/meilisearch)
+
+**PHP & marketing automation**
+[mautic](https://github.com/ahmad2422/mautic)
 
 **Community knowledge bases**
 [awesome-openclaw-skills](https://github.com/ahmad2422/awesome-openclaw-skills) · [awesome-openclaw-usecases](https://github.com/ahmad2422/awesome-openclaw-usecases)
@@ -179,6 +186,8 @@ I'm always up for collaborating on **front-end libraries, developer tooling, and
 If something in my repos catches your eye — open an issue, send a PR, or just say hi.
 
 <a href="https://github.com/ahmad2422"><img src="https://img.shields.io/badge/Follow-%40ahmad2422-0b1120?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Follow @ahmad2422" /></a>
+<a href="https://www.linkedin.com/in/ahmad-raza-41a68a229/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ahmedraza43210@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedraza43210%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://ahmad-portfolio-plum.vercel.app/"><img src="https://img.shields.io/badge/Hire_me-Portfolio-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Hire me" /></a>
 
 <br /><br />
