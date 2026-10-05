@@ -122,7 +122,7 @@ const ahmad = {
 
 ### 🍴 Open source I'm tracking & contributing to
 
-> 20 forks of actively maintained projects, grouped by where I can add the most value.
+> 20 forks across the AI-agent, automation and systems ecosystem — grouped by where I can add the most value.
 
 **AI agents, harnesses & automation**
 [openclaw](https://github.com/ahmad2422/openclaw) · [hermes-agent](https://github.com/ahmad2422/hermes-agent) · [ECC](https://github.com/ahmad2422/ECC) · [goose](https://github.com/ahmad2422/goose) · [zeroclaw](https://github.com/ahmad2422/zeroclaw) · [herdr](https://github.com/ahmad2422/herdr) · [claude-mem](https://github.com/ahmad2422/claude-mem) · [ponytail](https://github.com/ahmad2422/ponytail) · [dify](https://github.com/ahmad2422/dify) · [mautic](https://github.com/ahmad2422/mautic)
@@ -143,7 +143,7 @@ const ahmad = {
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmad2422&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=22d3ee&icon_color=818cf8&text_color=c9d1d9&bg_color=0d1117" alt="Ahmad's GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.demolab.com?user=ahmad2422&hide_border=true&background=0d1117&stroke=30363d&ring=22d3ee&fire=818cf8&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=ahmad2422&hide_border=true&background=0d1117&stroke=30363d&ring=22d3ee&fire=818cf8&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
 
 <br />
 
@@ -151,7 +151,7 @@ const ahmad = {
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad2422&bg_color=0d1117&color=22d3ee&line=818cf8&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
+<img src="https://ghchart.rshah.org/22d3ee/ahmad2422" width="100%" alt="Contribution chart" />
 
 <div align="center">
   <picture>
