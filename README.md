@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1120,45:4338ca,100:22d3ee&text=Ahmad%20Raza&fontColor=ffffff&fontSize=62&fontAlign=50&fontAlignY=36&desc=Front-End%20Developer%20%E2%80%A2%20Automation%20%26%20AI%20Tooling&descAlign=50&descAlignY=57&descSize=18&animation=fadeIn" width="100%" alt="Ahmad Raza — Front-End Developer, Automation & AI Tooling" />
+<img src="assets/banner.svg" width="100%" alt="Ahmad Raza — Front-End Developer · Automation & AI Tooling" />
 
 <a href="https://github.com/ahmad2422">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=22D3EE&center=true&vCenter=true&width=780&lines=Building+fast%2C+accessible+web+interfaces;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Rust+%E2%80%A2+C%2FC%2B%2B+%E2%80%A2+PHP;Automating+everything+I+touch;Learning+in+public%2C+contributing+in+the+open" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=780&lines=Building+fast%2C+accessible+web+interfaces;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Rust+%E2%80%A2+C%2FC%2B%2B+%E2%80%A2+PHP;Automating+everything+I+touch;Learning+in+public%2C+contributing+in+the+open" alt="Typing animation" />
 </a>
 
 <br />
@@ -14,13 +14,11 @@
 <a href="https://github.com/ahmad2422?tab=followers"><img src="https://img.shields.io/github/followers/ahmad2422?style=for-the-badge&logo=github&label=Followers&color=0b1120&logoColor=white" alt="Followers" /></a>
 <a href="https://github.com/ahmad2422?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmad2422&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github&color=0b1120&logoColor=22d3ee" alt="Public repositories" /></a>
 
-<!-- Add X / other links here when ready:
-<a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-0b1120?style=for-the-badge&logo=x&logoColor=white" /></a>
--->
+<br /><br />
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### 👋 About me
 
@@ -42,72 +40,72 @@ const ahmad = {
 - 🧩 I like projects that remove friction for other developers: gateways, harnesses, design systems, CLI tooling.
 - 🤝 Open to collaboration on **open-source tooling, front-end libraries, and automation**. Issues and PRs welcome.
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,tailwind,sass,bootstrap,php,c,cpp,rust,express,mongodb,mysql,git,github,docker,linux,vite&perline=11" alt="Core stack" />
-
-<br /><br />
-
 **Languages & Runtimes**
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="46" height="46" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="46" height="46" alt="TypeScript" /></a>
+<a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="46" height="46" alt="Node.js" /></a>
+<a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="46" height="46" alt="PHP" /></a>
+<a href="https://en.cppreference.com/w/c" title="C"><img src="https://skillicons.dev/icons?i=c" width="46" height="46" alt="C" /></a>
+<a href="https://isocpp.org" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="46" height="46" alt="C++" /></a>
+<a href="https://www.rust-lang.org" title="Rust"><img src="https://skillicons.dev/icons?i=rust" width="46" height="46" alt="Rust" /></a>
 
 **Front-end & Design**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="46" height="46" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="46" height="46" alt="CSS3" /></a>
+<a href="https://sass-lang.com" title="Sass"><img src="https://skillicons.dev/icons?i=sass" width="46" height="46" alt="Sass" /></a>
+<a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="46" height="46" alt="Tailwind CSS" /></a>
+<a href="https://getbootstrap.com" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="46" height="46" alt="Bootstrap" /></a>
+<a href="https://mui.com" title="Material UI"><img src="https://skillicons.dev/icons?i=materialui" width="46" height="46" alt="Material UI" /></a>
+<a href="https://www.figma.com" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="46" height="46" alt="Figma" /></a>
 
 **Libraries & Frameworks**
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
-<img src="https://img.shields.io/badge/Zustand-2C2C2C?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+<a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" width="46" height="46" alt="React" /></a>
+<a href="https://nextjs.org" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="46" height="46" alt="Next.js" /></a>
+<a href="https://vuejs.org" title="Vue.js"><img src="https://skillicons.dev/icons?i=vue" width="46" height="46" alt="Vue.js" /></a>
+<a href="https://svelte.dev" title="Svelte"><img src="https://skillicons.dev/icons?i=svelte" width="46" height="46" alt="Svelte" /></a>
+<a href="https://expressjs.com" title="Express"><img src="https://skillicons.dev/icons?i=express" width="46" height="46" alt="Express" /></a>
+<a href="https://threejs.org" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" width="46" height="46" alt="Three.js" /></a>
+<a href="https://jquery.com" title="jQuery"><img src="https://skillicons.dev/icons?i=jquery" width="46" height="46" alt="jQuery" /></a>
+<a href="https://vite.dev" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="46" height="46" alt="Vite" /></a>
+<a href="https://pnpm.io" title="pnpm"><img src="https://skillicons.dev/icons?i=pnpm" width="46" height="46" alt="pnpm" /></a>
+<a href="https://motion.dev" title="Framer Motion"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" /></a>
+<a href="https://gsap.com" title="GSAP"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" /></a>
+<a href="https://zustand.docs.pmnd.rs" title="Zustand"><img src="https://img.shields.io/badge/Zustand-2C2C2C?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" /></a>
 
 **Data, DevOps & Tooling**
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<a href="https://www.mongodb.com" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="46" height="46" alt="MongoDB" /></a>
+<a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="46" height="46" alt="MySQL" /></a>
+<a href="https://redis.io" title="Redis"><img src="https://skillicons.dev/icons?i=redis" width="46" height="46" alt="Redis" /></a>
+<a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="46" height="46" alt="Git" /></a>
+<a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="46" height="46" alt="GitHub" /></a>
+<a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="46" height="46" alt="Docker" /></a>
+<a href="https://www.kernel.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="46" height="46" alt="Linux" /></a>
+<a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="46" height="46" alt="Vercel" /></a>
+<a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="46" height="46" alt="VS Code" /></a>
+<a href="https://www.gnu.org/software/bash" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="46" height="46" alt="Bash" /></a>
+<a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
 
 **AI & Automation**
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<a href="https://openai.com" title="OpenAI"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
+<a href="https://claude.ai" title="Claude"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
+<a href="https://modelcontextprotocol.io" title="Model Context Protocol"><img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" /></a>
+<a href="https://ollama.com" title="Ollama"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /></a>
+<a href="https://python.org" title="Python (tooling & scripts)"><img src="https://skillicons.dev/icons?i=python" width="46" height="46" alt="Python" /></a>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### 🚀 What I'm exploring right now
 
@@ -118,7 +116,7 @@ const ahmad = {
 | [**diegosouzapw/OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | One endpoint, hundreds of providers — the routing/fallback architecture I want to reuse in my own tooling. |
 | [**pbakaus/impeccable**](https://github.com/pbakaus/impeccable) | A design language that makes AI output look intentional. Exactly where front-end meets agents. |
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### 🍴 Open source I'm tracking & contributing to
 
@@ -142,7 +140,7 @@ const ahmad = {
 **Community knowledge bases**
 [awesome-openclaw-skills](https://github.com/ahmad2422/awesome-openclaw-skills) · [awesome-openclaw-usecases](https://github.com/ahmad2422/awesome-openclaw-usecases)
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### 📊 GitHub in numbers
 
@@ -167,7 +165,7 @@ const ahmad = {
   </picture>
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ### 🗂️ Selected work
 
@@ -176,7 +174,7 @@ const ahmad = {
 | [**Ahmad-Portfolio**](https://github.com/ahmad2422/Ahmad-Portfolio) | `TypeScript` `Next.js` `Tailwind` | My personal portfolio — [live site](https://ahmad-portfolio-plum.vercel.app/) |
 | [**Youtube-skin-code**](https://github.com/ahmad2422/Youtube-skin-code) | `HTML` `CSS` `JS` | A custom YouTube player shell — poster cover, brandable play button, keyboard accessible. GPL-3.0. |
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -192,7 +190,7 @@ If something in my repos catches your eye — open an issue, send a PR, or just 
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22d3ee,55:4338ca,100:0b1120&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 <sub><i>"Always learning and creating cool project stuffs."</i></sub>
 
