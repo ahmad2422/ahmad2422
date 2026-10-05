@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Ahmad Raza — Interfaces. Automation. Exploration.</title>
+<desc id="desc">A dark editorial banner with cyan and violet orbital artwork. Front-end development, developer tools and AI workflows.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d19"/><stop offset="1" stop-color="#15132d"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#69e3dc"/><stop offset="1" stop-color="#ac9cff"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#6559bd" stop-opacity=".3"/><stop offset="1" stop-color="#6559bd" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9ca9d0" stroke-opacity=".055"/></pattern>
+<style>@media(prefers-reduced-motion:reduce){.orbit{display:none}}</style>
+</defs>
+<rect width="1200" height="440" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="440" rx="24" fill="url(#grid)"/>
+<circle cx="950" cy="204" r="250" fill="url(#halo)"/>
+<path d="M58 54H1142" stroke="#35354b"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="60" y="38" fill="#a0afc9" font-size="13" letter-spacing="3">AHMAD2422 / DEVELOPER PROFILE</text>
+<text x="1140" y="38" fill="#a0afc9" font-size="13" text-anchor="end" letter-spacing="2">PAKISTAN</text>
+<text x="60" y="120" fill="#69e3dc" font-size="14" letter-spacing="4">FRONT-END · AUTOMATION · AI</text>
+<text x="55" y="209" fill="#f4f4fb" font-size="80" font-weight="700" letter-spacing="-3">Ahmad Raza<tspan fill="#69e3dc">.</tspan></text>
+<text x="60" y="262" fill="#d5d9e8" font-size="27">Thoughtful interfaces.</text>
+<text x="60" y="301" fill="#d5d9e8" font-size="27">Useful automation.</text>
+<text x="60" y="342" fill="#8f9ab4" font-size="17">Building on the web. Exploring what comes next.</text>
+</g>
+<g transform="translate(956 213)">
+<circle r="130" fill="none" stroke="#494368" stroke-width="1"/>
+<circle r="101" fill="none" stroke="#7c77a5" stroke-opacity=".4" stroke-dasharray="3 9"/>
+<ellipse rx="159" ry="61" transform="rotate(-35)" fill="none" stroke="#69e3dc" stroke-opacity=".65"/>
+<ellipse rx="159" ry="61" transform="rotate(35)" fill="none" stroke="#ac9cff" stroke-opacity=".65"/>
+<g class="orbit"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/><circle cx="130" r="5" fill="#69e3dc"/><circle cx="-130" r="4" fill="#ac9cff"/></g>
+<rect x="-58" y="-46" width="116" height="92" rx="24" fill="#101526" stroke="#5d5a82"/>
+<text x="0" y="13" font-family="Consolas,monospace" text-anchor="middle" font-size="37" fill="url(#accent)">&lt;/&gt;</text>
+</g>
+<path d="M60 384H1140" stroke="#35354b"/>
+<rect x="60" y="383" width="190" height="2" fill="url(#accent)"/>
+<text x="60" y="413" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2" fill="#a0afc9">DESIGN WITH INTENT. BUILD WITH CURIOSITY.</text>
+<text x="1140" y="413" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#a0afc9">WEB / SYSTEMS / AGENTS</text>
+</svg>
