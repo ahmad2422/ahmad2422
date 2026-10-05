@@ -122,7 +122,7 @@ const ahmad = {
 
 ### 🍴 Open source I'm tracking & contributing to
 
-> 32 forks across the AI-agent, automation, web and systems ecosystem — where I can add the most value is marked with ⭐.
+> A curated index of the forks I'm reading and contributing to — the ones where I can add the most value are marked ⭐.
 
 **AI agents, harnesses & orchestration**
 [openclaw](https://github.com/ahmad2422/openclaw) · [hermes-agent](https://github.com/ahmad2422/hermes-agent) · [ECC](https://github.com/ahmad2422/ECC) · [goose](https://github.com/ahmad2422/goose) · [zeroclaw](https://github.com/ahmad2422/zeroclaw) · [herdr](https://github.com/ahmad2422/herdr) · [claude-mem](https://github.com/ahmad2422/claude-mem) · [ponytail](https://github.com/ahmad2422/ponytail) · [ruflo](https://github.com/ahmad2422/ruflo) · [orca](https://github.com/ahmad2422/orca) · [AionUi](https://github.com/ahmad2422/AionUi) · [dify](https://github.com/ahmad2422/dify)
